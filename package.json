@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Project for learning Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Rasul/nodejs.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "backend"
+  ],
+  "author": "Rasul Mamashev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Rasul/nodejs/issues"
+  },
+  "homepage": "https://github.com/M-Rasul/nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
