@@ -1,0 +1,302 @@
+AggregatorHost  15249408
+ai 0.390625 42516480
+AppHelperCap  28581888
+ApplicationFrameHost 0.078125 43405312
+armsvc  19398656
+audiodg 0.03125 29859840
+backgroundTaskHost 0.046875 2224128
+CcmExec  79151104
+chrome 50.6875 151175168
+chrome 0.0625 38367232
+chrome 0.109375 51494912
+chrome 0.515625 49258496
+chrome 0.015625 15839232
+chrome 0.78125 59908096
+chrome 29.390625 115093504
+chrome 46.71875 106237952
+chrome 0.0625 28209152
+chrome 9.6875 162799616
+cmd 0 10874880
+cmd 0.03125 11673600
+cmd 0 10809344
+Code 0.4375 95252480
+Code 21.421875 178282496
+Code 2.21875 124649472
+Code 127.578125 283697152
+Code 0.3125 51253248
+Code 0.234375 88596480
+Code 1.921875 103202816
+Code 2.5625 98459648
+Code 8.046875 117858304
+Code 133.03125 233926656
+Code 3.46875 126906368
+Code 0 38670336
+conhost  16756736
+conhost 0.03125 20332544
+conhost 0 18022400
+conhost  16797696
+conhost 0.03125 18124800
+conhost  16211968
+conhost 0.359375 14315520
+conhost  17428480
+conhost 0.046875 14213120
+conhost  16805888
+conhost  16814080
+conhost 0.03125 14278656
+conhost 0.015625 16007168
+conhost 0.078125 20320256
+conhost  17457152
+csrss  6717440
+csrss  8691712
+ctfmon 2.625 37240832
+DiagsCap  34476032
+dllhost 0.6875 22958080
+dwm  236171264
+esif_uf  15839232
+explorer 16.84375 277258240
+FileSyncHelper  34459648
+FMService64  17215488
+fontdrvhost  12357632
+fontdrvhost  21118976
+Gears 0.828125 26394624
+GearsAgentService  130600960
+GearsHelper  20267008
+GoogleCrashHandler  2129920
+GoogleCrashHandler64  1736704
+GoogleUpdate  2494464
+hpsvcsscan  63602688
+Idle  8192
+igfxCUIServiceN  20496384
+igfxEMN 0.4375 24588288
+infoblox_rc_control_application 0.09375 25227264
+infoblox_rc_service  29343744
+IntelAudioService  63623168
+IntelCpHDCPSvc  14913536
+jhi_service  15917056
+LMS  33030144
+LocationNotificationWindows 0.140625 3825664
+LsaIso  4485120
+lsass  46440448
+MBAMAgent  20664320
+Memory Compression  16695296
+Microsoft.Management.Services.IntuneWindowsAgent  119599104
+msedge 0.09375 66293760
+msedge 0.125 36974592
+msedge 0 26513408
+msedge 0.125 51314688
+msedge 0 16478208
+msedge 1.40625 130211840
+msedge 0.15625 40366080
+msedgewebview2 2.453125 112365568
+msedgewebview2 0.171875 6983680
+msedgewebview2 1.453125 44638208
+msedgewebview2 0.078125 16384
+msedgewebview2 3.234375 38227968
+msedgewebview2 0.375 24408064
+msedgewebview2 0.09375 16244736
+msedgewebview2 0.671875 18505728
+msedgewebview2 3.234375 108306432
+msedgewebview2 0.765625 72196096
+msedgewebview2 0 16637952
+msedgewebview2 2.140625 5443584
+msedgewebview2 0.140625 27320320
+msedgewebview2 0.046875 16621568
+msedgewebview2 0.671875 8056832
+msedgewebview2 6.53125 2723840
+msedgewebview2 7.890625 84062208
+msedgewebview2 3.46875 126939136
+msedgewebview2 1.625 13340672
+msedgewebview2 0.515625 68874240
+MsMpEng  141258752
+msteams 3.4375 20824064
+NetworkCap  23089152
+node 0.015625 37359616
+OfficeClickToRun  79155200
+omadmclient  4870144
+omadmprc  15265792
+OneApp.IGCC.WinService  68587520
+OneDrive 6.078125 170553344
+OpenConsole 0.0625 26001408
+OUTLOOK 21 454799360
+owcjls  20217856
+PanGPA 0.890625 84766720
+PanGPS  39825408
+powershell 1.34375 83787776
+powershell 3.125 80920576
+powershell 2.734375 78716928
+powershell 1.296875 80015360
+Registry  36864000
+RstMwService  17358848
+RtkAudUService64  25640960
+RtkAudUService64  29286400
+RtkAudUService64 0.203125 26488832
+RuntimeBroker 0.015625 14901248
+RuntimeBroker 1.03125 37404672
+RuntimeBroker 0 18698240
+RuntimeBroker 2.5 58613760
+RuntimeBroker 0.921875 36909056
+RuntimeBroker 0 18202624
+RuntimeBroker 0 17395712
+SCNotification 0.296875 54939648
+SearchHost 16 495099904
+SearchIndexer  67776512
+SearchProtocolHost  23580672
+SECOCL64 0.359375 23724032
+SECOMN64  26394624
+Secure System  81629184
+SecurityHealthService  21307392
+SecurityHealthSystray 0.015625 18853888
+SentinelAgent  317091840
+SentinelBrowserNativeHost 0.015625 13795328
+SentinelBrowserNativeHost 0.015625 13856768
+SentinelServiceHost  38502400
+SentinelStaticEngine  42590208
+SentinelStaticEngineScanner  29200384
+SentinelStaticEngineScanner  35090432
+SentinelUI 0.171875 39149568
+services  13516800
+ShellExperienceHost 4.390625 138858496
+sihost 4.65625 43864064
+smartscreen 0 20201472
+smss  1331200
+snowagent  33247232
+spoolsv  25391104
+StartMenuExperienceHost 2.453125 157597696
+svchost  12611584
+svchost  46526464
+svchost  28344320
+svchost  19488768
+svchost  12636160
+svchost  20811776
+svchost  20381696
+svchost  28192768
+svchost  19689472
+svchost  16900096
+svchost  22380544
+svchost  21737472
+svchost  20451328
+svchost  18731008
+svchost  17596416
+svchost  19034112
+svchost  14622720
+svchost  19070976
+svchost  17485824
+svchost  16347136
+svchost  28803072
+svchost  13496320
+svchost  15728640
+svchost  20099072
+svchost  17424384
+svchost  14413824
+svchost  15335424
+svchost  17534976
+svchost  22405120
+svchost  18018304
+svchost  15220736
+svchost  15454208
+svchost  46702592
+svchost  28045312
+svchost  24924160
+svchost  14942208
+svchost  28471296
+svchost  16969728
+svchost  32706560
+svchost  33521664
+svchost  13070336
+svchost  20701184
+svchost  16846848
+svchost  30646272
+svchost  15634432
+svchost  24367104
+svchost  14548992
+svchost  14184448
+svchost  21151744
+svchost  32202752
+svchost  22937600
+svchost  21561344
+svchost  15712256
+svchost  58961920
+svchost  55435264
+svchost  27439104
+svchost  15847424
+svchost  28061696
+svchost  12861440
+svchost  18972672
+svchost  13582336
+svchost  17088512
+svchost  21315584
+svchost  27815936
+svchost  15441920
+svchost  14745600
+svchost  14524416
+svchost  19861504
+svchost  29564928
+svchost  16740352
+svchost  17154048
+svchost 0.125 21241856
+svchost 4.203125 37871616
+svchost  16252928
+svchost  16539648
+svchost  21417984
+svchost  20275200
+svchost  32583680
+svchost  17879040
+svchost 0.421875 46211072
+svchost  32415744
+svchost 0.15625 19423232
+svchost  20480000
+svchost  19210240
+svchost  17199104
+svchost  13049856
+svchost  14413824
+svchost 1.546875 37347328
+svchost  12136448
+svchost 0.109375 17047552
+svchost 0.171875 16547840
+svchost 0.234375 28827648
+svchost 0.0625 16642048
+SysInfoCap  41422848
+System  159744
+SystemSettings 0.359375 2166784
+SystemSettingsBroker 1.03125 44834816
+taskhostw 0.65625 28237824
+TbtP2pShortcutService  15507456
+Teams 10.71875 170930176
+Teams 3.359375 170369024
+Teams 49.765625 312434688
+Teams 1.265625 59031552
+Teams 33.421875 225918976
+Teams 0.09375 76976128
+Teams 2.90625 193249280
+Teams 0.28125 77824000
+Telegram 11.4375 408231936
+TextInputHost 3.078125 218255360
+TouchpointAnalyticsClientService  95150080
+uhssvc  25645056
+unsecapp  16949248
+wa_3rd_party_host_32  64688128
+wa_3rd_party_host_32  59371520
+wa_3rd_party_host_32  58396672
+wa_3rd_party_host_32 0.609375 61440000
+wa_3rd_party_host_64  65036288
+wa_3rd_party_host_64  64888832
+wabpoes  123019264
+waodwd  42467328
+Widgets 1.53125 62738432
+WidgetService 0.125 33853440
+WindowsTerminal 1.140625 153985024
+wininit  7503872
+winlogon  19005440
+wlanext  14184448
+WmiPrvSE  53223424
+WmiPrvSE  51826688
+WmiPrvSE  21901312
+WmiPrvSE  26804224
+WmiPrvSE  124432384
+WmiPrvSE  17887232
+WmiPrvSE  22118400
+WMIRegistrationService  26873856
+WUDFHost  19120128
+WUDFHost  13742080
+WUDFHost  19673088
+WUDFHost  32329728
