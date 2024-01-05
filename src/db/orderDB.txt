@@ -1,0 +1,1 @@
+[{"id":1,"userId":1,"cost":21,"products":[{"id":"2","name":"Beer","cost":3,"amount":"5"},{"id":"1","name":"Diapers","cost":2,"amount":"3"}]},{"id":2,"userId":1,"cost":25,"products":[{"id":"5","name":"Meat","cost":5,"amount":5}]}]
